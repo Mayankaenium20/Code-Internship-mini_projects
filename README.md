@@ -1,5 +1,5 @@
 # Code-Internship-mini_projects
-Simple python programs/ mini projects 
+Simple python programs/ mini project. Is a simple beginner-friendly program to get you started with tkinter and pygame.  
 
 Libraries to install before executing the two programs: 
 For Alarm clock: 
