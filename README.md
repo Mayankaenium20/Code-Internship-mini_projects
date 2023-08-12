@@ -7,7 +7,7 @@ For Alarm clock:
 2. pygame
 3. PIL
 
-For pyshortner:
+For URL shortner:
 1. pyshortner
 
 Q: How do i install the libraries? 
